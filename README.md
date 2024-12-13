@@ -1,7 +1,7 @@
 # Personal Finance Tracker App
 
 ## 📋 Description
-The **Personal Finance Tracker App** is a Python application designed to help users manage their personal finances effectively. With features to import, view, edit, analyze, and visualize transaction data, the app simplifies the process of tracking and understanding spending habits. Using powerful Python libraries like `pandas` and `matplotlib`, the app ensures a smooth and efficient experience.
+The **Personal Finance Tracker App** is a Python application designed to help users manage their personal finances effectively. With features to import, view, edit, analyze, and visualize transaction data, the app simplifies the process of tracking and understanding spending habits. Using powerful Python libraries like `pandas` and `matplotlib`.
 
 ---
 
